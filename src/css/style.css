@@ -262,7 +262,6 @@ section .thumbnails{
     nav #search_section input{
         display: none;
     }
-
     nav #search_section  .search_icon{
         height: 16px;
         border: 1px solid #7c7979;
