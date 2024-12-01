@@ -82,12 +82,12 @@ nav .youtube-right-icons .account_icons{
     width: 40px;
     height: 40px;
     vertical-align: top;
-    margin-top: -5px;
+    margin-top: -2px;
     border: 2px solid;
 }
 
 nav .youtube-right-icons .account_icons:hover{
-    border: 1px solid red;
+    border: 2px solid red;
 }
 
 nav .account_icons{
